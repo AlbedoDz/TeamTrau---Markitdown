@@ -1,0 +1,10 @@
+# Lõi MarkItDown cơ bản
+markitdown
+
+# Các Plugin cốt lõi TeamTrau đang sử dụng
+markitdown-ocr
+markitdown-plasmate
+
+# Thư viện hỗ trợ AI & CLI
+openai
+typer
